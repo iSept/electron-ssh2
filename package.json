@@ -1,0 +1,35 @@
+{
+  "name": "electron-ssh2",
+  "version": "0.1.0",
+  "description": "Electron SSH2 client and server modules written in pure JavaScript for node.js",
+  "main": "./lib/client",
+  "engines": {
+    "node": ">=5.2.0"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "asn1": "^0.2.4",
+    "bcrypt-pbkdf": "^1.0.2",
+    "streamsearch": "^0.1.2"
+  },
+  "keywords": [
+    "electron ssh",
+    "electron ssh2",
+    "ssh",
+    "ssh2",
+    "sftp",
+    "secure",
+    "shell",
+    "exec",
+    "remote",
+    "client"
+  ],
+  "author": "microSept",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microSept/electron-ssh2.git"
+  }
+}
