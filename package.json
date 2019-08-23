@@ -1,6 +1,6 @@
 {
   "name": "electron-ssh2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Electron SSH2 client and server modules written in pure JavaScript for node.js",
   "main": "./lib/client",
   "engines": {
@@ -16,8 +16,10 @@
     "streamsearch": "^0.1.2"
   },
   "keywords": [
-    "electron ssh",
+    "electron-ssh2",
     "electron ssh2",
+    "electron-ssh",
+    "electron ssh",
     "ssh",
     "ssh2",
     "sftp",
